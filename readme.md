@@ -6,3 +6,6 @@
   - Dockerイメージ作成とローカルへの登録までをDockerfile無しでやれることが特徴
 - docker run --rm -p 8080:8080 myapp
   - このコマンドで動作確認可能
+
+## 参照
+- https://buildpacks.io/docs/app-journey/
